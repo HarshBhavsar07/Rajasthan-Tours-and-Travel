@@ -1,6 +1,7 @@
 🏆 Project Details
 
 Created By Harsh Bhavsar
+
 Project from the University in 3 year to create a Mobile Android Application 
 
 Rajasthan Tours and Travel is an Android application designed to enhance the tourism experience across the vibrant state of Rajasthan, India. From exploring historical forts and palaces to planning itineraries, this app serves as a one-stop solution for travelers.
