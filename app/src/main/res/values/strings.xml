@@ -1,0 +1,34 @@
+<resources>
+    <!-- General Strings -->
+    <string name="app_name">Rajasthan Tours and Travels</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login to Your Account</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+
+    <!-- Signup Screen -->
+    <string name="signup_title">Create Your Account</string>
+    <string name="hint_full_name">Enter Full Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_signup_password">Enter Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_signup">SignUp</string>
+
+    <!-- Home Screen -->
+    <string name="home_heading">Destination</string>
+    <string name="home_welcome">Welcome to Rajasthan Tours and Travel</string>
+    <string name="home_explore">Explore Rajasthan</string>
+    <string name="start_subtitle">Plan your vacation with Us</string>
+
+    <!-- Destinations -->
+    <string name="city_jaipur">Jaipur</string>
+    <string name="city_udaipur">Udaipur</string>
+    <string name="city_jaiselmer">Jaiselmer</string>
+    <string name="city_mount_abu">Mount Abu</string>
+    <string name="city_pushkar">Pushkar</string>
+    <string name="city_kumbalgarh">Kumbalgarh</string>
+
+</resources>
+

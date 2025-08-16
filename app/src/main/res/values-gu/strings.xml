@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Strings -->
+    <string name="app_name">રાજસ્થાન ટૂર્સ એન્ડ ટ્રાવેલ્સ</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">તમારું ખાતું લોગિન કરો</string>
+    <string name="hint_username">વપરાશકર્તાનું નામ દાખલ કરો</string>
+    <string name="hint_password">પાસવર્ડ દાખલ કરો</string>
+    <string name="btn_login">લોગિન</string>
+
+    <!-- Signup Screen -->
+    <string name="signup_title">તમારું ખાતું બનાવો</string>
+    <string name="hint_full_name">પૂર્ણ નામ દાખલ કરો</string>
+    <string name="hint_email">ઇમેલ દાખલ કરો</string>
+    <string name="hint_signup_password">પાસવર્ડ દાખલ કરો</string>
+    <string name="hint_confirm_password">પાસવર્ડ પુષ્ટિ કરો</string>
+    <string name="btn_signup">સાઇન અપ</string>
+
+    <!-- Home Screen -->
+    <string name="home_heading">મુખ્ય સ્થળો</string>
+    <string name="home_welcome">રાજસ્થાન ટૂર્સ એન્ડ ટ્રાવેલ્સમાં આપનું સ્વાગત છે</string>
+    <string name="home_explore">રાજસ્થાનની શોધ કરો</string>
+    <string name="start_subtitle">અમારાથી તમારી રજા યોજના બનાવો</string>
+
+    <!-- Destinations -->
+    <string name="city_jaipur">જયપુર</string>
+    <string name="city_udaipur">ઉદયપુર</string>
+    <string name="city_jaiselmer">જૈસલમેર</string>
+    <string name="city_mount_abu">માઉન્ટ આબુ</string>
+    <string name="city_pushkar">પુષ્કર</string>
+    <string name="city_kumbalgarh">કુંભળગઢ</string>
+
+</resources>
