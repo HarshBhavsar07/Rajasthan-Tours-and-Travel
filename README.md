@@ -15,8 +15,11 @@ Rajasthan Tours and Travel is an Android application designed to enhance the tou
 🛠️ Tech Stack
 
 Frontend / UI: XML, Material Design Components
+
 Backend / Logic: Java (Android SDK)
+
 Database: SQLite / Firebase (if used)
+
 IDE: Android Studio
 
 
